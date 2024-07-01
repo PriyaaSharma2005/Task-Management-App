@@ -7,7 +7,7 @@
  4. you can view all your task.
 
 
-# Adding tasks to my task Management App.
+# Adding tasks to my Task Management App.
 <img width="702" alt="image" src="https://github.com/PriyaaSharma2005/Task-Management-App/assets/174304937/1d9b8400-00a9-4318-9f70-994c11516dbd">
 
 
