@@ -22,14 +22,16 @@ def task():
                 up=input("enter your task=")
                 ind=tasks.index(updated_val)
                 tasks[ind]=up
-                print("task is updated{up}")
+                print(f"Updated task '{updated_val}' to '{up}'.")
+
 
         elif operation == 3:
-            del_val=input("enter your task you want to del=")
-            if del_val in tasks:  
-                ind=tasks.index(del_val)
-                del tasks[ind]
-                print("task {del_val} has been deleted...")
+            del_task = input("Enter the task you want to delete: ").strip() 
+            if del_task in tasks:
+                tasks.remove(del_task)
+                print(f"Task '{del_task}' has been deleted.")
+            else:
+                print(f"Task '{del_task}' not found in the list.")
 
         elif operation == 4:
             print(f"Total tasks = {tasks}")      
