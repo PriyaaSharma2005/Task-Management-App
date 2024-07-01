@@ -1,10 +1,10 @@
 # Task-Management-App
 
 # This is a basic python project aimed to help you complete your task.
-# 1. You can add any task.
-# 2. You can update any task.
-# 3. You can delete any task.
-# 4. you can view all your task.
+ 1. You can add any task.
+ 2. You can update any task.
+ 3. You can delete any task.
+ 4. you can view all your task.
 
 
 # Adding tasks to my task Management App.
